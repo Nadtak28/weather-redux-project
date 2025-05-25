@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: ElMessiri;
+    src: url("../public/fonts/ElMessiri-Bold.ttf");
+    font-weight: bold;
+}
+@font-face {
+    font-family: ElMessiri;
+    src: url("../public/fonts/ElMessiri-Regular.ttf");
+    font-weight: normal;
+}
+@font-face {
+    font-family: ElMessiri;
+    src: url("../public/fonts/ElMessiri-Medium.ttf");
+    font-weight: 600;
+}
